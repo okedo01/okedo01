@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eliahmwelangi01@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/okedo01/ELIAH](https://github.com/okedo01/ELIAH)
+- 📄 Know about my experiences [https://github.com/okedo01](https://github.com/okedo01)
 
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
