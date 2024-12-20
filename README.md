@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliah</h1>
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
 
-<img align="right" alt="coding" width="100%" src="https://c4.wallpaperflare.com/wallpaper/55/233/65/notebook-lines-hacker-wallpaper-preview.jpg">
+<img align="right" alt="coding" width="100%" src="https://github.com/okedo01/okedo01/blob/main/PXL_20240503_153420094.PORTRAIT.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okedo01&label=Profile%20views&color=0e75b6&style=flat" alt="okedo01" /> </p>
 
